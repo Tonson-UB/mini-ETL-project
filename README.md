@@ -8,6 +8,13 @@
   - application_record
   - credit_record
 
+### You can read more articles at 
+
+[Data Engineering Project-Credit Card Risk-Part 1](https://medium.com/@tonson.edu/data-engineering-project-with-google-cloud-platform-gcp-credit-card-risk-part-1-27776fb6e8fe)
+
+[Data Engineering Project-Credit Card Risk-Part 2](https://medium.com/@tonson.edu/data-engineering-project-credit-card-risk-part-2-b9f47cd3f9b0)
+
+
 # Column Description of Application Record Dataset:
 
 ---
